@@ -1,0 +1,34 @@
+[
+  {
+    "route": "/investigations/colombiaparadox/",
+    "title": "The Peace Map Paradox — Colombia",
+    "date": "2026-05-05",
+    "id": "INV-083843",
+    "country": null,
+    "file": "inv-colombiaparadox.jpg"
+  },
+  {
+    "route": "/atlas/venezuela/ojeda-case/",
+    "title": "The Case of Ronald Ojeda | Venezuela",
+    "date": "2026-04-13",
+    "id": "INV-341800",
+    "country": "venezuela",
+    "file": "inv-venezuela-ojeda-case.jpg"
+  },
+  {
+    "route": "/atlas/albania/",
+    "title": "Parliament Wide Open — Albania OSINT Audit",
+    "date": "2026-01-19",
+    "id": "INV-509287",
+    "country": "albania",
+    "file": "inv-albania.jpg"
+  },
+  {
+    "route": "/atlas/argentina/",
+    "title": "Argentina: SHE for the Soldiers, None for the Secrets — Armed Forces Data Exposed",
+    "date": "2026-06-12",
+    "id": "INV-109365",
+    "country": "argentina",
+    "file": "inv-argentina.jpg"
+  }
+]
